@@ -1,0 +1,42 @@
+* { box-sizing: border-box;
+    padding: 0;
+    margin: 0 ;
+}
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.button-prymari{
+    background-color: red;
+    color: white;
+    font-weight: 400;
+    padding: 15px 25px;
+    border-radius: 7px;
+    border:none;
+    margin: 20px;
+}
+
+.banner-continer{
+    max-width: 1440px;
+background-color: black;
+display:flex; justify-content: space-between;
+    margin: 0 auto;
+border-radius: 20px;
+}
+.banner-item {
+    color: white;
+margin: auto 0;
+padding-left:99px; padding-right:20px ;
+
+}
+.banner-titel{
+        font-weight: 550px;
+    font-size: 70px;
+}
+
+.banner-description{
+    font-weight: 540;
+        margin: 20px;
+
+}
